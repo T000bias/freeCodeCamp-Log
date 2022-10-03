@@ -1,0 +1,2 @@
+# freeCodeCamp-Log
+*Coming Soon*
