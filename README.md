@@ -42,3 +42,21 @@
 | Size Your Images | May 08, 2022  |
 | Add Borders Around Your Elements | May 08, 2022  |
 | Make Circular Images with a border-radius | May 08, 2022  |
+| Compare Scopes of the var and let keywords | October 03, 2022 |
+| Mutate an Array Declared with const | October 03, 2022 |
+| Prevent Object Mutation | October 03, 2022 |
+| Use Arrow Functions to Write Concise Anonymous Functions | October 03, 2022 |
+| Write Arrow Functions with Parameters | October 03, 2022 |
+| Set Default Parameters for Your Functions | October 03, 2022 |
+| Use the JavaScript Console to Check the Value of a Variable | October 03, 2022 |
+| Understanding the Difference between the freeCodeCamp and Browser Console | October 03, 2022 |
+| Use typeof to Check the Type of a Variable | October 03, 2022 |
+| Catch Misspelled Variable and Function Names | October 03, 2022 |
+| Catch Unclosed Parentheses, Brackets, Braces and Quotes | October 03, 2022 |
+| Catch Mixed Usage of Single and Double Quotes | October 03, 2022 |
+| Catch Use of Assignment Operator Instead of Equality Operator | October 03, 2022 |
+| Catch Missing Open and Closing Parenthesis After a Function Call | October 03, 2022 |
+| Catch Arguments Passed in the Wrong Order When Calling a Function | October 03, 2022|
+| Catch Off By One Errors When Using Indexing | October 03, 2022|
+| Use Caution When Reinitializing Variables Inside a Loop | October 03, 2022|
+| Prevent Infinite Loops with a Valid Terminal Condition | October 03, 2022|
