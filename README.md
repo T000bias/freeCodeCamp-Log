@@ -56,7 +56,12 @@
 | Catch Mixed Usage of Single and Double Quotes | October 03, 2022 |
 | Catch Use of Assignment Operator Instead of Equality Operator | October 03, 2022 |
 | Catch Missing Open and Closing Parenthesis After a Function Call | October 03, 2022 |
-| Catch Arguments Passed in the Wrong Order When Calling a Function | October 03, 2022|
-| Catch Off By One Errors When Using Indexing | October 03, 2022|
-| Use Caution When Reinitializing Variables Inside a Loop | October 03, 2022|
-| Prevent Infinite Loops with a Valid Terminal Condition | October 03, 2022|
+| Catch Arguments Passed in the Wrong Order When Calling a Function | October 03, 2022 |
+| Catch Off By One Errors When Using Indexing | October 03, 2022 |
+| Use Caution When Reinitializing Variables Inside a Loop | October 03, 2022 |
+| Prevent Infinite Loops with a Valid Terminal Condition | October 03, 2022 |
+| Use an Array to Store a Collection of Data | October 04, 2022 |
+| Access an Array's Contents Using Bracket Notation | October 04, 2022 |
+| Add Items to an Array with push() and unshift() | October 04, 2022 |
+| Remove Items from an Array with pop() and shift() | October 04, 2022 |
+| Remove Items Using splice() | October 04, 2022 |
