@@ -65,3 +65,8 @@
 | Add Items to an Array with push() and unshift() | October 04, 2022 |
 | Remove Items from an Array with pop() and shift() | October 04, 2022 |
 | Remove Items Using splice() | October 04, 2022 |
+| Add Items Using splice() | October 05, 2022 |
+| Copy Array Items Using slice() | October 05, 2022 |
+| Copy Array with the Spread Operator | October 05, 2022 |
+| Combine Arrays with the Spread Operator | October 05, 2022 |
+| Check For The Presence of an Element With indexOf() | October 05, 2022 |
